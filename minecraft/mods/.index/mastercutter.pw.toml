@@ -1,0 +1,18 @@
+filename = 'mastercutter-1.3.1+1.21.jar'
+name = 'MasterCutter'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.1+1.21+mod'
+
+[download]
+hash = '8bf73d467fface7de50410ee59f809c250b9a1b95129d3e5fbc584fe9b18d69f4291dc5ff85ba36ae8d6fda49d14fd078eefd3e33fb238696dd5d895cd890ccd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DuUMFIfX/versions/wQ63oKLt/mastercutter-1.3.1%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'DuUMFIfX'
+version = 'wQ63oKLt'

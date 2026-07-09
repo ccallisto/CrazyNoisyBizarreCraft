@@ -1,0 +1,37 @@
+filename = 'jewelry-fabric-2.3.2+1.21.1.jar'
+name = 'Jewelry (RPG Series)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.3.2+1.21.1-fabric'
+
+[download]
+hash = '50a1f286437cded532ddc3caea0e6ac8ae855c46fd454df9463405f01734c71450f8194f211678cef3725ad3693f47064736b07c2fe1702816ab2ed0257b9a52'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sNJAIjUm/versions/93Bti7MQ/jewelry-fabric-2.3.2%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'sNJAIjUm'
+version = '93Bti7MQ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5aaWibi9'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'AqaIIO6D'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8ooWzSQP'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LrYZi08Q'
+type = 'REQUIRED'

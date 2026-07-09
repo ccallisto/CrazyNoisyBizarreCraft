@@ -1,0 +1,21 @@
+filename = 'just-hammers-fabric-21.1.4.jar'
+name = 'Just Hammers'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.4'
+
+[download]
+hash = '254d0e5cfa9dc8a55962621b8a8684670e10ff24c22bd7ceeaf26da54cec28280dac5745d3b1e90c0c88d133b12a7f63bb1ff5db8003d8319ac27d1cde363f93'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/edU0NbZZ/versions/EGzHAWo0/just-hammers-fabric-21.1.4.jar'
+
+[update.modrinth]
+mod-id = 'edU0NbZZ'
+version = 'EGzHAWo0'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

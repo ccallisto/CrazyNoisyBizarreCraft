@@ -1,0 +1,9 @@
+{
+  "dimensionTypeFallback": true,
+  "dimensionTypes": {
+    "minecraft:overworld_caves": null,
+    "minecraft:overworld": null,
+    "minecraft:the_end": null,
+    "minecraft:the_nether": null
+  }
+}

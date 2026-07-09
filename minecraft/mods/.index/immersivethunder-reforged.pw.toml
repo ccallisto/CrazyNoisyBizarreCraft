@@ -1,0 +1,34 @@
+filename = 'ImmersiveThunder-Reforged-fabric-1.21.x-1.3.5.jar'
+name = 'ImmersiveThunder: Reforged'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.5+1.21.x'
+
+[download]
+hash = '3b4f4127602d4e93bfd6a01d00cd71591a257eb904611f31195c7a2192f9ee286bd561b8a5e117e3b10fa6dbcec7cc62346e5974a59ccb5cb616915832457720'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8qptmVok/versions/4mr8xyLB/ImmersiveThunder-Reforged-fabric-1.21.x-1.3.5.jar'
+
+[update.modrinth]
+mod-id = '8qptmVok'
+version = '4mr8xyLB'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

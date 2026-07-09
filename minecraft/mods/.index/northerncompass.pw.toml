@@ -1,0 +1,18 @@
+filename = 'NorthernCompass-Fabric-1.21-1.1.3.jar'
+name = 'Northern Compass'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21-1.1.3'
+
+[download]
+hash = '4de186fc45ccb6656dd44370801415fb27ceb0e8f9147218891930e965f11f3507bd86e6712fba1af8e8570e4006cf69ba77698f1d27d08cca8f60bbbf6b83fd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5QyCeANZ/versions/b4TD1e3S/NorthernCompass-Fabric-1.21-1.1.3.jar'
+
+[update.modrinth]
+mod-id = '5QyCeANZ'
+version = 'b4TD1e3S'

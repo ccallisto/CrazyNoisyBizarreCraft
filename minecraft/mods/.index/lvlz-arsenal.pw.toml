@@ -1,0 +1,25 @@
+filename = 'lvlz_arsenal-1.21.1-1.0.jar'
+name = 'Level Z - Arsenal'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.0'
+
+[download]
+hash = '3ebf1ef0d91f517d33014e24cbbd781f97618340f046b6c4da80f0cd418399acf15767d61c995a5104e7a7e38de4e7d1ecaed55771c2bfaf86dccabacaa89bfe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hsxfxgHd/versions/OAKmRkKO/lvlz_arsenal-1.21.1-1.0.jar'
+
+[update.modrinth]
+mod-id = 'hsxfxgHd'
+version = 'OAKmRkKO'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'EFtixeiF'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LiP9Q3KV'
+type = 'REQUIRED'

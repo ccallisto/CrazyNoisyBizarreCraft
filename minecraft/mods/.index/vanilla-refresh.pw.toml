@@ -1,0 +1,18 @@
+filename = 'vanilla-refresh-1.4.26_1.21.jar'
+name = 'Vanilla Refresh'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.26'
+
+[download]
+hash = '733a7faa95eaa8be79990ce0da207ba1e51a2d51b762957286811198d125eff47afce7c1345d15892093e2eb5d0d4e5cc1446374841d24e63cebdcc5ae0e6a9d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gWO6Zqey/versions/kmDSUUKd/vanilla-refresh-1.4.26_1.21.jar'
+
+[update.modrinth]
+mod-id = 'gWO6Zqey'
+version = 'kmDSUUKd'

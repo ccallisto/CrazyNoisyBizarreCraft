@@ -1,0 +1,18 @@
+filename = 'allay_upgrades-2.3.jar'
+name = 'Allay Upgrades'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.3+mod'
+
+[download]
+hash = '2c5be44d09f3c0b5f4aacf88ecb9abe05d935b8df204c18c9185dbf75393a6422316d088aec498c8f630f88d31ceb2fbfd77d10541c0652e003fdd4a5e1cbc72'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/I4llzeMO/versions/kpBYB0Xo/allay_upgrades-2.3.jar'
+
+[update.modrinth]
+mod-id = 'I4llzeMO'
+version = 'kpBYB0Xo'

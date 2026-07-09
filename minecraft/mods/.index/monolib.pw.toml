@@ -1,0 +1,18 @@
+filename = 'monolib-fabric-1.21.1-4.0.2.jar'
+name = 'MonoLib'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fabric-1.21.1-4.0.2'
+
+[download]
+hash = '59cc574bcf6cff30fb0f87e032159be5eee49e5d5b4d41c08a6beed151b4c1ec5bb335f05bd7a6d4b9725278598f6b63421ab9fdb77bdfe01d0697376d8fb387'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9leXt4A5/versions/XdED0p25/monolib-fabric-1.21.1-4.0.2.jar'
+
+[update.modrinth]
+mod-id = '9leXt4A5'
+version = 'XdED0p25'

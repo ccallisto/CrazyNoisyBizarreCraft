@@ -1,0 +1,18 @@
+filename = 'villagerconverting-1.5.0+1.21.jar'
+name = 'Villager Converting'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.0+1.21'
+
+[download]
+hash = '7550e9ec9159f145d776edb5ab99e49a4da169b55fa103c58aa717352e54b5deff91acf094eec5b746c90ff2c81b2345fc4d4d69d3fbf1750c5bac946572f276'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gtsvJo80/versions/Rv4qj8y8/villagerconverting-1.5.0%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'gtsvJo80'
+version = 'Rv4qj8y8'

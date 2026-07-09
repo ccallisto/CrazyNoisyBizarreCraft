@@ -1,0 +1,21 @@
+filename = 'animal_feeding_trough-1.1.2+1.21.1.jar'
+name = 'Animal Feeding Trough'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.2+1.21.1'
+
+[download]
+hash = 'cfe3598c2ef5cc71333fafcca0f636254c85be172320dfb46bed6417f435cdd7429189800a1986d130ff0ae2894906ad49c5457aef860d1c9cc6b726e27d38df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bRFWnJ87/versions/BgW2cRLu/animal_feeding_trough-1.1.2%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'bRFWnJ87'
+version = 'BgW2cRLu'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

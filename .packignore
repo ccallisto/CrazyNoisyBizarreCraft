@@ -1,0 +1,16 @@
+minecraft/.claude
+minecraft/Distant_Horizons_server_data
+minecraft/config/iris-excluded.json
+minecraft/config/iris.properties
+minecraft/config/sodium-extra-options.json
+minecraft/config/sodium-extra.properties
+minecraft/config/sodium-fingerprint.json
+minecraft/config/sodium-mixins.properties
+minecraft/config/sodium-options.json
+minecraft/config/sodium-shadowy-path-blocks-options.json
+minecraft/saves
+minecraft/schematics
+minecraft/screenshots
+minecraft/servers.dat
+minecraft/servers.dat_old
+minecraft/usercache.json

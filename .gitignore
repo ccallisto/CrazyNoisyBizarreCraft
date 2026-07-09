@@ -1,0 +1,41 @@
+# Claude Code local project state
+minecraft/.claude/
+
+# World-cache / LOD databases (multi-GB, regenerates)
+minecraft/Distant_Horizons_server_data/
+
+# World saves and personal captures
+minecraft/saves/
+minecraft/screenshots/
+minecraft/schematics/
+minecraft/XaeroWaypoints_BACKUP240807/
+minecraft/xaero/
+minecraft/velthoric/
+
+# Logs and telemetry
+minecraft/logs/
+minecraft/crash-reports/
+minecraft/debug/
+minecraft/exposures/
+
+# Build/runtime caches (regenerate automatically)
+minecraft/.mixin.out/
+minecraft/.fabric/
+minecraft/dynamic-resource-pack-cache/
+minecraft/dynamic-data-pack-cache/
+minecraft/polymer/
+minecraft/data/
+minecraft/downloads/
+
+# Per-player/session state
+minecraft/usercache.json
+minecraft/servers.dat
+minecraft/servers.dat_old
+
+# Empty/unused pack folders
+minecraft/coremods/
+minecraft/datapacks/
+minecraft/defaultconfigs/
+minecraft/moonlight-global-datapacks/
+minecraft/server-resource-packs/
+minecraft/texturepacks/

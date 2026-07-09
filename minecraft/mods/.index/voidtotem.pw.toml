@@ -1,0 +1,29 @@
+filename = 'voidtotem-fabric-1.21.1-4.0.0.jar'
+name = 'Void Totem'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.0.0'
+
+[download]
+hash = '823e99a60226936cf02b9854cf8d18165f3981e813e9decfd823df8684a674f8081f055b2e4d8fb53f98ef7758c852cc2b169aa8a70469c2f7a666292df595c8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/q6eiiQ07/versions/m8Kda85p/voidtotem-fabric-1.21.1-4.0.0.jar'
+
+[update.modrinth]
+mod-id = 'q6eiiQ07'
+version = 'm8Kda85p'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5aaWibi9'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

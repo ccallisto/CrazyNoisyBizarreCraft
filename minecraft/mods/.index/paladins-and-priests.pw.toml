@@ -1,0 +1,37 @@
+filename = 'paladins-fabric-2.7.0+1.21.1.jar'
+name = 'Paladins & Priests (RPG Series)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.7.0+1.21.1-fabric'
+
+[download]
+hash = '0e48bfbfdf3857260daa48ef66ae4cd3d83731fe317dae51a94e5a79b9243b8baa35796a9c5eee395425b29f2b1c0d23b4bd2f60f55d36f21a82c9e5c0b7000a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FxXkHaLe/versions/TuaGwGAA/paladins-fabric-2.7.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'FxXkHaLe'
+version = 'TuaGwGAA'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LrYZi08Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XvoWJaA2'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'pduQXSbl'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lP9Yrr1E'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

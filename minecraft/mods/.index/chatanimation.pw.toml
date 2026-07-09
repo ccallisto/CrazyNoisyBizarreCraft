@@ -1,0 +1,21 @@
+filename = 'chatanimation-fabric-1.2.0+mc1.21.1.jar'
+name = 'Chat Animation [Smooth Chat]'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0+fabric-1.21.1'
+
+[download]
+hash = '8f4bdc7be76484a4412f3afaffc468cd6b95722f305e29c9f6548d98b0c0a39e133ebc0c6b6368677d9ea440eaa9eeda1d8a2b1ced4427038246fc115233a074'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DnNYdJsx/versions/x0oEkT7o/chatanimation-fabric-1.2.0%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'DnNYdJsx'
+version = 'x0oEkT7o'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'

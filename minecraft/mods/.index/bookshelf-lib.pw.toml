@@ -1,0 +1,21 @@
+filename = 'bookshelf-fabric-1.21.1-21.1.81.jar'
+name = 'Bookshelf'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.81'
+
+[download]
+hash = 'bde761951e48ce293dc99290a1e0139dcd10f96c01a0f1ec348e87c416b76f328490e226b5e0eb4fb61224a6f77718bf1c929868f07834f3bdecce8718074f97'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uy4Cnpcm/versions/kpkjWpa5/bookshelf-fabric-1.21.1-21.1.81.jar'
+
+[update.modrinth]
+mod-id = 'uy4Cnpcm'
+version = 'kpkjWpa5'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

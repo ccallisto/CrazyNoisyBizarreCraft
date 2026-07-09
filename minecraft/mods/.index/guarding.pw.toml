@@ -1,0 +1,25 @@
+filename = 'guarding-1.21.1-2.7.4.jar'
+name = 'Guarding'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-2.7.4'
+
+[download]
+hash = '2136915cc2db2220f0dc536e698b024159e43c597472d258021dc6f39d977b8924bf365dfd93c87409a470c23aeb7da2be3b132f863388cd2f973da0af4c50a1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aV1COQ7a/versions/A6m2d7By/guarding-1.21.1-2.7.4.jar'
+
+[update.modrinth]
+mod-id = 'aV1COQ7a'
+version = 'A6m2d7By'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4erSrc0h'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

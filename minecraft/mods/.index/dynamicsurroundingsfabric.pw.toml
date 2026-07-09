@@ -1,0 +1,21 @@
+filename = 'dynamicsurroundings-fabric-1.21.1-0.4.2.jar'
+name = 'Dynamic Surroundings'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.4.2'
+
+[download]
+hash = '9259a7ec7ec3303661a50569dac1dc4a1fdaf481e12cbfa180a4f49838985b5088be70425315b0bdffde212ddeffbd8805437b07aca636f508ea49c109419e7c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/H7fshfpD/versions/PdSOBhyc/dynamicsurroundings-fabric-1.21.1-0.4.2.jar'
+
+[update.modrinth]
+mod-id = 'H7fshfpD'
+version = 'PdSOBhyc'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

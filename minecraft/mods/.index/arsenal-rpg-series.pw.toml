@@ -1,0 +1,33 @@
+filename = 'arsenal-fabric-1.4.2+1.21.1.jar'
+name = 'Arsenal (RPG Series)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.2+1.21.1-fabric'
+
+[download]
+hash = '68ac6037ddf33ab4e01f1367905ffaf856392850d8959c78834d46c41d0321aaa9429c31106ae805c62c68d488a78b7df0cd596db9a4b365efc6839bf3dbf8b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LiP9Q3KV/versions/HRXGAgxU/arsenal-fabric-1.4.2%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'LiP9Q3KV'
+version = 'HRXGAgxU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'y9clIFY4'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'AqaIIO6D'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XvoWJaA2'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'beautifiedchatserver-1.21.1-3.2.jar'
+name = 'Beautified Chat [Server]'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-3.2-fabric+forge+neo'
+
+[download]
+hash = 'f9cf81653ab8352ee8195d420ee2365b376bddf9e39d999ff0e8edeab3119381da7fcaa9f592b05a1c6a33e0e5effe627641cbb0d30da1df07bc45c841e79df5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/C00Y5Ci9/versions/4G5TlQ8j/beautifiedchatserver-1.21.1-3.2.jar'
+
+[update.modrinth]
+mod-id = 'C00Y5Ci9'
+version = '4G5TlQ8j'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0M1UDsY'
+type = 'REQUIRED'

@@ -1,0 +1,29 @@
+filename = 'enchdesc-fabric-1.21.1-21.1.10.jar'
+name = 'Enchantment Descriptions'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.10'
+
+[download]
+hash = 'a6a59cb91544b357e1aad35ef62f1d8f1411a67066640f87df963262ab277866f2ef66cde890674e0942362f5e0d660111f14c7f2ff8290b3fcb5e94ecf0e355'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UVtY3ZAC/versions/YSJWkwEM/enchdesc-fabric-1.21.1-21.1.10.jar'
+
+[update.modrinth]
+mod-id = 'UVtY3ZAC'
+version = 'YSJWkwEM'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uy4Cnpcm'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'aaRl8GiW'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

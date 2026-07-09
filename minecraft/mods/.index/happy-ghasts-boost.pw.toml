@@ -1,0 +1,18 @@
+filename = 'happy_ghasts_boost-merged-1.21.1-1.0.1.jar'
+name = 'Happy Ghasts Boost'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = '323cd92037eecd1449431d6f28813988978ff024cacb250c7009757d8ff10377665295687b3f9944ba1edd6b3e797629b3d69723e716605e15ec66539d47c112'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IavCsUgJ/versions/BBppKQR1/happy_ghasts_boost-merged-1.21.1-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'IavCsUgJ'
+version = 'BBppKQR1'

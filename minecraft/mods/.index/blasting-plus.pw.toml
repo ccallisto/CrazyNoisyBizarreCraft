@@ -1,0 +1,21 @@
+filename = 'blasting-plus-1.3.jar'
+name = 'Blasting Plus'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3+mod'
+
+[download]
+hash = 'dfd8b2c69c2868b71207ec4fe26471b26c3d7030255a04c45656081138d6116b3c7033ee7df3cd66ea22dbfb1c07db23f8f7063752cd55ec6d4c533198b9f3f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bSKJNoQF/versions/afhawRTc/blasting-plus-1.3.jar'
+
+[update.modrinth]
+mod-id = 'bSKJNoQF'
+version = 'afhawRTc'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'eKGiFrdh'
+type = 'OPTIONAL'

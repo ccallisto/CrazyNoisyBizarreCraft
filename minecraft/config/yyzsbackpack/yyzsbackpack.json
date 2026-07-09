@@ -1,0 +1,44 @@
+{
+  // Allow swapping the currently equipped backpack by clicking a backpack item inside the backpack's own inventory
+  // If true, while the backpack GUI is open, clicking a backpack item in its internal slots will replace the one you are wearing
+  "quick_swap_backpack": true,
+  // Force use of the mod's dedicated backpack slot instead of a baubles/trinkets accessory slot
+  // Only relevant when an accessory slot mod (e.g., Curios API) is present
+  "use_dedicated_slot": false,
+  // Render the 3D backpack model on the player's back
+  // Disable if you don't need the visual model
+  "render_backpack_model": true,
+  // Prevent container items (like Shulker Boxes) from being placed inside the backpack
+  // Helps avoid nested inventories
+  "restrict_container_items": false,
+  // X offset of the backpack equipment slot on the inventory screen (pixels)
+  "slot_position_x": 0,
+  // Y offset of the backpack equipment slot on the inventory screen (pixels)
+  "slot_position_y": 0,
+  // X offset of the backpack GUI window (pixels)
+  "backpack_gui_x": 0,
+  // Y offset of the backpack GUI window (pixels)
+  "backpack_gui_y": 0,
+  // How often (in seconds) the backpack data is automatically saved as a backup
+  // Backups are stored in the same folder as the main data file
+  "backup_interval_seconds": 30,
+  // Maximum number of backup files to keep per player
+  // When exceeded, the oldest backup is automatically deleted
+  "max_backup_count": 5,
+  // Item count threshold that triggers the heavy effect
+  // If the total number of items in the backpack reaches or exceeds this value, the player will be slowed down
+  "heavy_count": 2,
+  // Slowness multiplier when heavy
+  // Range: 0.0 (no slowdown) to 1.0 (extreme slowdown).
+  // Example: 0.6 means the player moves at 40% of normal speed
+  "heavy_slow_ratio": 0.6,
+  // Jump height reduction multiplier when heavy
+  // Range: 0.0 (no reduction) to 1.0 (cannot jump at all).
+  // Example: 0.5 means jump height is reduced by 50%
+  "heavy_jump_reduction_ratio": 0.5,
+  // Additional items that cannot be placed into the backpack (besides container items if enabled above)
+  // Format: "namespace:item_id"
+  // Example: "minecraft:diamond_sword",
+  //          "minecraft:tnt"
+  "restricted_items": []
+}

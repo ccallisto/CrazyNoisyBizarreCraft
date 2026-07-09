@@ -1,0 +1,21 @@
+{
+  "transparentCabinetBlocks": true,
+  "illuminatedCabinetBlockBrightening": true,
+  "enableLightStripBrightening": true,
+  "enableLightStripRadiusColorCompensation": true,
+  "enableCandlestickBeta": false,
+  "enableColouredFeatureSetBeta": false,
+  "creativeItemGroupCategorization": "SEPARATE",
+  "placeHumilityBlocksInVanillaCreativeCategories": true,
+  "mosaicsAndTilesStrengthMultiplayer": 1.3333334,
+  "cabinetBlockBurnTime": 24,
+  "cabinetBlockFireSpread": 9,
+  "datagenMode": false,
+  "printInChatServerClientMissmatch": true,
+  "modSupport": {
+    "biomesoplenty": "AUTO",
+    "betterend": "AUTO",
+    "betternether": "AUTO",
+    "shimmer": "AUTO"
+  }
+}

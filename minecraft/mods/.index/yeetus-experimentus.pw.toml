@@ -1,0 +1,34 @@
+filename = 'yeetusexperimentus-fabric-87.0.0.jar'
+name = 'Yeetus Experimentus'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '87.0.0'
+
+[download]
+hash = 'b7352c464b6c7ed66cd3e883de2fcb327fdb483f311787c4baae06cc604662523cc2c932b94e81b1f68acd389d33e57c02d97864b3c340aa7992d77f5ec10a28'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HaaH232J/versions/b7C4gGUr/yeetusexperimentus-fabric-87.0.0.jar'
+
+[update.modrinth]
+mod-id = 'HaaH232J'
+version = 'b7C4gGUr'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

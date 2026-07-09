@@ -1,0 +1,32 @@
+filename = 'dropspread-1.0.5.jar'
+name = 'Drop Spread 2'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.5'
+
+[download]
+hash = '536e627497704588bc62f937518c75dba6c765e8bf6078a123929e564c2c0fe93c130bb4b2c3963eccb75ecec2c85bfd564116a5775174cfbc0f9d3da2fcfaad'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/abiELH6a/versions/LSz1gETa/dropspread-1.0.5.jar'
+
+[update.modrinth]
+mod-id = 'abiELH6a'
+version = 'LSz1gETa'

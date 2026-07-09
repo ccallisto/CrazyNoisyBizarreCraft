@@ -1,0 +1,37 @@
+filename = 'wizards-fabric-2.7.1+1.21.1.jar'
+name = 'Wizards (RPG Series)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.7.1+1.21.1-fabric'
+
+[download]
+hash = '7fe1e0dd0ab05637e8b176f2f5c0776e720eedda8fad6be256ff0df7e6ab71278f1877f0f967cfe75f97d7e2de499a5e69feb27f0731f518e6be8dd3ced0c2f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NkGaQMDA/versions/NDvXbz5j/wizards-fabric-2.7.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'NkGaQMDA'
+version = 'NDvXbz5j'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LrYZi08Q'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lP9Yrr1E'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'pduQXSbl'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XvoWJaA2'
+type = 'REQUIRED'

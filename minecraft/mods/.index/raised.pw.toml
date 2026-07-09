@@ -1,0 +1,21 @@
+filename = 'raised-fabric-1.21.1-5.1.2.jar'
+name = 'Raised'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Fabric-1.21.1-5.1.2'
+
+[download]
+hash = 'fd05cb3b5a64921ebd035edba522288b5e14f8a13e7173a6ca6228a08be09183d02785d087434288b6d3a8a5d71405880c010752b52c2614b51a357d1fe98b81'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nCQRBEiR/versions/eRjPC9vV/raised-fabric-1.21.1-5.1.2.jar'
+
+[update.modrinth]
+mod-id = 'nCQRBEiR'
+version = 'eRjPC9vV'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

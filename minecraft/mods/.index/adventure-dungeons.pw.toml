@@ -1,0 +1,18 @@
+filename = 'adventuredungeons-fabric-1.21-1.3.1.jar'
+name = 'Adventure Dungeons'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.1'
+
+[download]
+hash = '1a9152b67edd8a674462f2846f81c6fb4998f24e7cb178cfe766e519ac7a44f265cefc6e91e025e2492f68f6ef04786a6f747aaaadde5a9198f49e8186e3fb18'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ADHjiwby/versions/EIun1fbq/adventuredungeons-fabric-1.21-1.3.1.jar'
+
+[update.modrinth]
+mod-id = 'ADHjiwby'
+version = 'EIun1fbq'

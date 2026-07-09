@@ -1,0 +1,6 @@
+{
+  "prevent_pet_damage": true,
+  "prevent_pet_attack": true,
+  "allow_owner_damage": false,
+  "ignore_creative": true
+}

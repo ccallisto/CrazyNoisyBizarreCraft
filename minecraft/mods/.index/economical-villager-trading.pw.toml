@@ -1,0 +1,33 @@
+filename = 'economical-villager-trading-1.3.1+MC1.21-1.21.1.jar'
+name = 'Economical Villager Trading'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.1+MC1.21-1.21.1'
+
+[download]
+hash = '377392a82b453ebb9ce33e971ddea50e86ac77188fba9fbcf8b08be51f299df04eef12d0a2747123be2430726f6477df599657b5c3a91ce82458a272fc1350d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MpaztjRf/versions/KJoYtaJ1/economical-villager-trading-1.3.1%2BMC1.21-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'MpaztjRf'
+version = 'KJoYtaJ1'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tbAZnTrE'
+type = 'OPTIONAL'

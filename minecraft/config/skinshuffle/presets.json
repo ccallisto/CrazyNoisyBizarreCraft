@@ -1,0 +1,30 @@
+{
+  "chosenPreset": 2,
+  "apiPreset": 2,
+  "loadedPresets": [
+    {
+      "skin": {
+        "skin_name": "260947776",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "Callistowo"
+    },
+    {
+      "skin": {
+        "skin_name": "1326071297",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "Astolfo"
+    },
+    {
+      "skin": {
+        "skin_name": "797135323",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "Johnny"
+    }
+  ]
+}

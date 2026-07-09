@@ -1,0 +1,21 @@
+filename = 'legacy-freecam-fabric-1.1.2+mc1.21.jar'
+name = 'Freecam (Fair Play)'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.2'
+
+[download]
+hash = '2a465d31aa9841092829bedf7a63ea8448d35be47457478f47ae8c631aaba2713ea9cb48fc50510e32e7e93a5ea7845c7c4ad9297327127b4d8a7bd0ecb2b68b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tWqI1yhH/versions/hDzT2WVs/legacy-freecam-fabric-1.1.2%2Bmc1.21.jar'
+
+[update.modrinth]
+mod-id = 'tWqI1yhH'
+version = 'hDzT2WVs'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'

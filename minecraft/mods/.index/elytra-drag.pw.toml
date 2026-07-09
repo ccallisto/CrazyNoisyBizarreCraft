@@ -1,0 +1,21 @@
+filename = 'elytra-drag-0.4-1.21+.jar'
+name = 'Elytra Drag'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.4-1.21+'
+
+[download]
+hash = '9073818410ae6b37a4be62d02da543f2fc210cf164f5f47b4ae1cc56af5391485650e489acde673e37775dc7d7cde416a2816a5f33bae16a425cdae3b2c06a56'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c9J3k0tK/versions/b71UOJt2/elytra-drag-0.4-1.21%2B.jar'
+
+[update.modrinth]
+mod-id = 'c9J3k0tK'
+version = 'b71UOJt2'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'sootychimneys-fabric-1.3.5.jar'
+name = 'Sooty Chimneys'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.5'
+
+[download]
+hash = 'f9966fad9ea954025012bc410ab30ae0b2ac3305e03a0cf532b56e57539ed2bad7ad1b4036b1b225bd5fcb0eec56278b304c83f7523fc14f832761a43251d4a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b3w1XM9H/versions/sUuTA9z2/sootychimneys-fabric-1.3.5.jar'
+
+[update.modrinth]
+mod-id = 'b3w1XM9H'
+version = 'sUuTA9z2'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'

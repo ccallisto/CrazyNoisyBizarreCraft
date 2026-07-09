@@ -1,0 +1,21 @@
+filename = 'SoulCandles-1.2.1+mc1.21.jar'
+name = 'Soul Candles'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.1+mc1.21'
+
+[download]
+hash = '4f661150a521406eb537abbc887a37927c3a65f41d75497b88968877a99db214aa4f83c425e263bab467459e4a92f0ca919727d760513c703044a8cf6d065de1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XHXMTS5X/versions/jZpVn8Rj/SoulCandles-1.2.1%2Bmc1.21.jar'
+
+[update.modrinth]
+mod-id = 'XHXMTS5X'
+version = 'jZpVn8Rj'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

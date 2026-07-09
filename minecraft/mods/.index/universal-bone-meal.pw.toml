@@ -1,0 +1,33 @@
+filename = 'UniversalBoneMeal-v21.1.0-1.21.1-Fabric.jar'
+name = 'Universal Bone Meal'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v21.1.0-1.21.1-Fabric'
+
+[download]
+hash = 'fdb514a31ef89607a4fef54c2bdcf2ed7464afe013014824f3e217ff555a3532c95151791852acd897ebc84cd5428f0fe4fa84bb02f2e24c8699cd9b9af9df71'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/66VIiT1y/versions/WdnxEvD1/UniversalBoneMeal-v21.1.0-1.21.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = '66VIiT1y'
+version = 'WdnxEvD1'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'QAGBst4M'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5WeWGLoJ'
+type = 'OPTIONAL'

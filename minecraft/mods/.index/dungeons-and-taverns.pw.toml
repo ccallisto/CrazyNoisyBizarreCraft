@@ -1,0 +1,18 @@
+filename = 'dungeons-and-taverns-v4.4.4.jar'
+name = 'Dungeons and Taverns'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v4.4.4+mod'
+
+[download]
+hash = 'ceeaaa41bafeb23d54abb498a4291b1905a53b6b3d17d14d892e9fa0d81cd56275c5edfdc999910520547939a17c1884d4553543d5aaafcf2295fb818cadba01'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tpehi7ww/versions/EUlNXs9V/dungeons-and-taverns-v4.4.4.jar'
+
+[update.modrinth]
+mod-id = 'tpehi7ww'
+version = 'EUlNXs9V'

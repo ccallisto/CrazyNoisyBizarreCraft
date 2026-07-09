@@ -1,0 +1,25 @@
+filename = 'separatedleaves-2.6.1-fabric-1.21.1.jar'
+name = 'Separated Leaves'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.6.1-fabric-1.21.1'
+
+[download]
+hash = '6254b41ca583e427834816cc72e6d5dca94fa9ef9c4278e70419f0d0df817be9d38e5f4edf880661e42fe00ad7b579c91cc86a54ef3256645b5f86c0e0483f49'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xEu0FTVG/versions/Tl6k9oo4/separatedleaves-2.6.1-fabric-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'xEu0FTVG'
+version = 'Tl6k9oo4'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

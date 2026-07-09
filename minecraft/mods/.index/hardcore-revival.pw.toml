@@ -1,0 +1,25 @@
+filename = 'hardcorerevival-fabric-1.21.1-21.1.16.jar'
+name = 'Hardcore Revival'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.16+fabric-1.21.1'
+
+[download]
+hash = '8156fd0c912f234de9acc5b4d0ccd213fa7a7dbab8234896e14147f1bc7f90ee5001116605b26a91f89dcbb9f046f59524759024987d5b6d6be4dafda25e287a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HqKoXaXz/versions/Dt1em9hg/hardcorerevival-fabric-1.21.1-21.1.16.jar'
+
+[update.modrinth]
+mod-id = 'HqKoXaXz'
+version = 'Dt1em9hg'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'

@@ -1,0 +1,16 @@
+{
+	// If true, the Day Count will be displayed | default: true
+	"dayCountEnabled": true,
+	// Offset to add to the Day Count | default: 1
+	"dayOffset": 1,
+	// Horizontal size of the Day Counter | default: 2.0
+	"sizeX": 2.0,
+	// Vertical size of the Day Counter | default: 2.0
+	"sizeY": 2.0,
+	// Horizontal position of the Day Counter | default: 2.0
+	"locationX": 2.0,
+	// Vertical position of the Day Counter | default: 2.0
+	"locationY": 2.0,
+	// Color of the Day Counter | default: 16777215 (for white)
+	"color": 16777215
+}

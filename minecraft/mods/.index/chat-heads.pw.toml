@@ -1,0 +1,21 @@
+filename = 'chat_heads-0.15.2-fabric-1.21.jar'
+name = 'Chat Heads'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.15.2'
+
+[download]
+hash = 'f1ad1924ce071e8e0255dcae96d13d1fad1ed17d533df938b47073a71f7de13ff06b6c021087500755e79239408ce05246f6cae19fbcc1d326399fb01fbd3960'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wb5oqrBJ/versions/O34Q4oXE/chat_heads-0.15.2-fabric-1.21.jar'
+
+[update.modrinth]
+mod-id = 'Wb5oqrBJ'
+version = 'O34Q4oXE'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'

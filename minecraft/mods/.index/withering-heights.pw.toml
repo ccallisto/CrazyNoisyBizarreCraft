@@ -1,0 +1,18 @@
+filename = 'withering-heights-v1.1b.jar'
+name = 'Withering Heights: Revamped Wither'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'v1.1b+mod'
+
+[download]
+hash = '8cc9774bd00b51b06e39737201ead2acb9ede5a0fd9e1c3dadd158332f00053c245398b5cd6e399539f416fa5c41da06c0d81356f6d3b0e97e4f041941045455'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NCPLOWlF/versions/oUMl3Kzr/withering-heights-v1.1b.jar'
+
+[update.modrinth]
+mod-id = 'NCPLOWlF'
+version = 'oUMl3Kzr'

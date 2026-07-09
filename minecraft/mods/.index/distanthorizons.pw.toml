@@ -1,0 +1,18 @@
+filename = 'DistantHorizons-3.1.2-b-1.21.1-fabric-neoforge.jar'
+name = 'Distant Horizons'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '3.1.2-b-1.21.1'
+
+[download]
+hash = 'e184723c273aba04b2658f20196755f445860d4dfe929575a1aff006bf53c0d45004acdeaa455d3516b88f7c21f564e0e640315627e3a4080478fe0986a46732'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uCdwusMi/versions/g68FsgfE/DistantHorizons-3.1.2-b-1.21.1-fabric-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'uCdwusMi'
+version = 'g68FsgfE'

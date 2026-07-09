@@ -1,0 +1,18 @@
+filename = 'yyzsbackpack-fabric-21.1.13.jar'
+name = "yyz's backpack"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.13'
+
+[download]
+hash = '2561154ab92e4408ed25d24153a8c378bb7f62ac99a97d53a56dbab398d9a3cf31c7b611db664ff6b058b91367c2dd8c84c280161ca978259e9bc483447c65db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zO7tsTJN/versions/u4knHwHi/yyzsbackpack-fabric-21.1.13.jar'
+
+[update.modrinth]
+mod-id = 'zO7tsTJN'
+version = 'u4knHwHi'
