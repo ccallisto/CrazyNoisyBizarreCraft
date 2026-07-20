@@ -1,5 +1,4 @@
 #This file stores configuration options for Iris, such as the currently active shaderpack
-#Thu Jul 09 16:03:24 CDT 2026
 allowUnknownShaders=false
 colorSpace=SRGB
 disableUpdateMessage=false

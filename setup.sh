@@ -57,9 +57,10 @@ git clone "$REPO_URL" "$DEST"
 cd "$DEST"
 git lfs pull
 
-if [ ! -f instance.cfg ]; then
-    cp instance.cfg.example instance.cfg
-fi
+# update.sh already knows how to seed the pack's default client config and to
+# switch on automatic updates, so reuse it rather than repeating the logic.
+# Redirecting stdin keeps it from waiting for a keypress here.
+./update.sh </dev/null
 
 echo ""
 echo "Done! Open PrismLauncher — the instance should appear automatically."

@@ -51,11 +51,11 @@ if errorlevel 1 (
 cd /d "%DEST%"
 git lfs pull
 
-if not exist instance.cfg (
-    copy instance.cfg.example instance.cfg >nul
-)
-
 echo.
 echo Done! Open PrismLauncher - the instance should appear automatically.
 echo If it doesn't, restart PrismLauncher.
-pause
+
+rem update.bat already knows how to seed the pack's default client config and
+rem to switch on automatic updates, so reuse it rather than repeating the
+rem logic. It ends with its own "press any key", so don't add a second one.
+call update.bat

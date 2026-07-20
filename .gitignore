@@ -37,6 +37,38 @@ minecraft/options.txt
 # See instance.cfg.example for the first-time-setup template
 /instance.cfg
 
+# Per-player and per-machine client config.
+#
+# These are rewritten by the game on every launch, so tracking them made every
+# player's working tree dirty just from playing, which is what made `git pull`
+# in update.sh abort with "didn't apply cleanly". The .properties files are the
+# worst case: Java stamps a #<date> header on save, so they change on every
+# launch with no semantic difference at all.
+#
+# This list is the one already declared in .packignore (Prism's export-ignore),
+# which had classified these as per-player without git being told.
+#
+# Files with a .example sibling are seeded on first run by setup.sh/update.sh,
+# so pack defaults (shaders on, BSL selected) still reach new installs.
+minecraft/config/iris-excluded.json
+minecraft/config/iris.properties
+minecraft/config/sodium-extra-options.json
+minecraft/config/sodium-extra.properties
+minecraft/config/sodium-fingerprint.json
+minecraft/config/sodium-mixins.properties
+minecraft/config/sodium-options.json
+minecraft/config/sodium-shadowy-path-blocks-options.json
+minecraft/config/fabric/indigo-renderer.properties
+minecraft/config/euphoria_patcher/.data.json
+minecraft/config/sounds/chat.json
+minecraft/config/constructionwand-client.toml
+minecraft/config/jade/
+
+# Per-player shaderpack settings written next to each pack archive.
+# Scoped to *.zip.txt so the licence/credits .txt files that ship *inside*
+# the Complementary shaderpack folders stay tracked.
+minecraft/shaderpacks/*.zip.txt
+
 # Empty/unused pack folders
 minecraft/coremods/
 minecraft/datapacks/
